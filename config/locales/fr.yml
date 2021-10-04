@@ -224,7 +224,7 @@ fr:
         valid: Valide
       title: Gérer les utilisateurs
   add_to_google_calendar: "Ajouter au calendrier Google"
-  bigbluebutton: BigBlueButton
+  bigbluebutton: BigBlueButton - Lycée Honoré d'Estienne d'Orves
   bigbluebutton_exception: "Oups, une erreur s'est produite lors du démarrage de la réunion !"
   cancel: Annuler
   cookies:
@@ -296,7 +296,7 @@ fr:
   footer:
     legal: Conditions
     privpolicy: Politique de confidentialité
-    powered_by: "Alimenté par %{href}."
+    powered_by: "Lycée Honoré d'Estienne d'Orves | 2020-2021 © Tous droits réservés"
   forgot_password:
     subtitle: Mot de passe oublié
     email: Email
